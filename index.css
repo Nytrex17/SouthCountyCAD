@@ -1,7 +1,7 @@
 body 
 {
-background: rgb(46,45,253);
-background: linear-gradient(0deg, rgba(46,45,253,1) 0%, rgba(46,45,253,1) 40%, rgba(255,0,0,1) 60%, rgba(255,0,0,1) 100%);
+background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(172,172,172,1) 100%);
 }
 .eng1 option {
   appearance: none;
